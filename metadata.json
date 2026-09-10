@@ -1,0 +1,6 @@
+{
+  "name": "Kahani Voice Studio",
+  "description": "Original Hindi AI storytelling studio with multi-character voice generation, context emotion detection, natural pauses, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
